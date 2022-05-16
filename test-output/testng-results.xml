@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T17:49:38Z" name="Suite" finished-at="2022-05-10T17:49:53Z" duration-ms="15105">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T17:49:38Z" name="Run on Chrome" finished-at="2022-05-10T17:49:53Z" duration-ms="15105">
+      <class name="com.techpanda.page.TC_01_Page">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:38Z" name="beforeClass" finished-at="2022-05-10T17:49:43Z" duration-ms="5134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Verify_Header_Submenu_Account_Without_Login()[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:43Z" name="TC_01_Verify_Header_Submenu_Account_Without_Login" finished-at="2022-05-10T17:49:43Z" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_Header_Submenu_Account_Without_Login -->
+        <test-method signature="TC_03_Verify_Header_My_Account_Page()[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:43Z" name="TC_03_Verify_Header_My_Account_Page" finished-at="2022-05-10T17:49:46Z" duration-ms="3139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Verify_Header_My_Account_Page -->
+        <test-method signature="TC_05_Verify_Header_My_Wishlist_Page()[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:46Z" name="TC_05_Verify_Header_My_Wishlist_Page" finished-at="2022-05-10T17:49:48Z" duration-ms="1421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_Verify_Header_My_Wishlist_Page -->
+        <test-method signature="TC_07_Verify_Header_My_Shopping_Cart_Blank()[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:48Z" name="TC_07_Verify_Header_My_Shopping_Cart_Blank" finished-at="2022-05-10T17:49:49Z" duration-ms="1236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_07_Verify_Header_My_Shopping_Cart_Blank -->
+        <test-method signature="TC_08_Verify_Header_My_Shopping_Cart()[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:49Z" name="TC_08_Verify_Header_My_Shopping_Cart" finished-at="2022-05-10T17:49:53Z" duration-ms="3708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_08_Verify_Header_My_Shopping_Cart -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.techpanda.page.TC_01_Page@75db5df9]" started-at="2022-05-10T17:49:53Z" name="afterClass" finished-at="2022-05-10T17:49:53Z" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.techpanda.page.TC_01_Page -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
